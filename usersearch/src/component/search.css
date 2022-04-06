@@ -1,0 +1,20 @@
+.suggestion{
+    border:1px solid black;
+    cursor:pointer;
+    width:auto;
+    background-color: grey;
+    color: aliceblue;
+}
+
+.suggestion:hover{
+    background-color: black;
+}
+
+.suggestionContainer{
+    width:20%;
+    height:60%;
+    overflow: auto;
+    position:absolute;
+    left:40%;
+}
+

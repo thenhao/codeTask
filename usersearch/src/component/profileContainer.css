@@ -1,0 +1,10 @@
+.searchContainer{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height:auto;
+    width:100%;
+    border-top:1px solid black;
+    justify-content: center;
+    background-color: lavender;
+}
